@@ -25,7 +25,7 @@ Features
 How to Run It
 
 
-Open this link: https://emad966.w3spaces.com/index.html
+Open this link: https://emad966.w3spaces.com
 That’s it!
 
 
